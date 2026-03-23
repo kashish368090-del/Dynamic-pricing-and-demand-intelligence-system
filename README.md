@@ -1,9 +1,8 @@
 # 🚀 Dynamic Pricing and Demand Intelligence System
 
-## 👩‍💻 Team Members
-- Kashish  
-- Mansi  
-- Ojasvi  
+## 👩‍💻 Developed By
+- Kashish
+- BCA Student
 
 🏫 Meerut Institute of Technology  
 👨‍🏫 Guide: Rahul Singh  
